@@ -21,6 +21,11 @@ export const items = [
     url: "/payments",
     icon: CreditCard,
   },
+  {
+    title: "AddProducts",
+    url: "/products/create",
+    icon: Notebook,
+  },
   // {
   //   title: "Settings",
   //   url: "#",
