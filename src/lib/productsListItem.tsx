@@ -16,7 +16,7 @@ export interface ProductItem {
   updateAt: Date;
 }
 
-export const productsListItem: ProductItem[] = [
+export const ProductsListItem: ProductItem[] = [
   {
     id: 1,
     name: "СURT Z30 Plus Acoustics",
